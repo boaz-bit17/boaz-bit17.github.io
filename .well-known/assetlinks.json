@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.boazbit17.canyonsurfers",
+        "sha256_cert_fingerprints": ["6C:3D:E7:45:FA:7B:BD:04:25:3B:35:66:C4:07:41:1C:C5:DE:68:6F:67:25:B3:32:3F:53:9C:F3:58:59:85:92"]
+      }
+    }]
